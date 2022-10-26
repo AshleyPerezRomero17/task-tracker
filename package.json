@@ -1,0 +1,25 @@
+{
+  "name": "task-tracker",
+  "version": "1.0.0",
+  "description": "<!-- Add a ReadMe file describing the process you had to go through when building the application. Also add a section talking about some errors you had and how you solved those errors. -->  <!-- Project's Title description  -->",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AshleyPerezRomero17/task-tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AshleyPerezRomero17/task-tracker/issues"
+  },
+  "homepage": "https://github.com/AshleyPerezRomero17/task-tracker#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20",
+    "pug": "^3.0.2"
+  }
+}
